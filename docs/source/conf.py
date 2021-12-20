@@ -11,12 +11,10 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-import os
-import sys
+import os, sys
+sys.path.insert(0, os.path.abspath('.'))
 from sphinx.application import Sphinx
-from sphinx.util.docutils import SphinxDirective
-from myst_parser import __version__
-# sys.path.insert(0, os.path.abspath('.'))
+import myst_parser
 
 
 # -- Project information -----------------------------------------------------
