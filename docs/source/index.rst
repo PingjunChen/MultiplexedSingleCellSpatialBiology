@@ -1,20 +1,29 @@
-.. SpatialOncology documentation master file, created by
-   sphinx-quickstart on Mon Dec 20 12:10:31 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to SpatialOncology's documentation!
 ===========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+This documentations contains the resources for multiplexed single-cell spatial analysis.
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`Batch-Effects-Correction`
+* :ref:`Community-Detection`
+  
+
+.. _Batch-Effects-Correction
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents: Batch Effects Correction
+
+   BatchEffectsCorrection/Algorithms.md
+
+
+.. _Community-Detection
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents: Community Detection
+
+   CommunityDetection/Algorithms.md
