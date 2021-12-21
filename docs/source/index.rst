@@ -13,7 +13,7 @@ This documentations contains the resources for multiplexed single-cell spatial a
    :maxdepth: 2
    :caption: Batch Effects Correction
 
-   bec_algorithm
+   bec_algorithms
 
 
 .. _community-detection:
