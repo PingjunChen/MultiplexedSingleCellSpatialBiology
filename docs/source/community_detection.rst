@@ -1,7 +1,4 @@
-Community Detection
-========
-
-Algorithm List
+CD Algorithms
 --------
 * PhenoGraph https://github.com/jacoblevine/PhenoGraph
 * FastPG https://github.com/sararselitsky/FastPG
