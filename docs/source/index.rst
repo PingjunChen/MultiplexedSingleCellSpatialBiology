@@ -13,7 +13,7 @@ This documentations contains the resources for multiplexed single-cell spatial a
    :maxdepth: 2
    :caption: Contents: Batch Effects Correction
 
-   BatchEffectsCorrection/Algorithms.rst
+   Algorithms.rst
 
 
 .. _community-detection:
