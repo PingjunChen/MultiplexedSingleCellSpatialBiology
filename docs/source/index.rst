@@ -3,11 +3,11 @@ Welcome to SpatialOncology's documentation!
 
 This documentations contains the resources for multiplexed single-cell spatial analysis.
 
-* :ref:`Batch-Effects-Correction`
-* :ref:`Community-Detection`
+* :ref:`batch-effects-correction`
+* :ref:`community-detection`
 
 
-.. _Batch-Effects-Correction
+.. _batch-effects-correction:
 
 .. toctree::
    :maxdepth: 2
@@ -16,7 +16,7 @@ This documentations contains the resources for multiplexed single-cell spatial a
    BatchEffectsCorrection/Algorithms.rst
 
 
-.. _Community-Detection
+.. _community-detection:
 
 .. toctree::
    :maxdepth: 2
