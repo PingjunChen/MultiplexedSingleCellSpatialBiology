@@ -11,7 +11,7 @@ This documentations contains the resources for multiplexed single-cell spatial a
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Batch Effects Correction
+   :caption: Batch Effects Correction
 
    bec_algorithm
 
@@ -20,6 +20,6 @@ This documentations contains the resources for multiplexed single-cell spatial a
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Community Detection
+   :caption: Community Detection
 
    cd_algorithms
