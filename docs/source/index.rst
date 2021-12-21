@@ -5,7 +5,7 @@ This documentations contains the resources for multiplexed single-cell spatial a
 
 * :ref:`Batch-Effects-Correction`
 * :ref:`Community-Detection`
-  
+
 
 .. _Batch-Effects-Correction
 
