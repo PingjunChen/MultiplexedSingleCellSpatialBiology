@@ -3,6 +3,15 @@ Welcome to SpatialOncology's documentation!
 
 This documentations contains the resources for multiplexed single-cell spatial analysis.
 
+.. _data-transformation:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Data Transformation
+
+   data_transformation
+
+
 .. _batch-effects-correction:
 
 .. toctree::
