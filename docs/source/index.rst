@@ -11,7 +11,6 @@ This documentations contains the resources for multiplexed single-cell spatial a
 
    cytometry_tutorial
 
-
 .. _data-transformation:
 
 .. toctree::
@@ -19,7 +18,6 @@ This documentations contains the resources for multiplexed single-cell spatial a
    :caption: Data Transformation
 
    data_transformation
-
 
 .. _batch-effects-correction:
 
@@ -29,7 +27,6 @@ This documentations contains the resources for multiplexed single-cell spatial a
 
    batch_effects_correction
 
-
 .. _community-detection:
 
 .. toctree::
@@ -37,7 +34,6 @@ This documentations contains the resources for multiplexed single-cell spatial a
    :caption: Community Detection
 
    community_detection
-
 
 .. _dimension-reduction:
 
