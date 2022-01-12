@@ -39,10 +39,10 @@ This documentations contains the resources for multiplexed single-cell spatial a
    community_detection
 
 
- .. _dimension-reduction:
+.. _dimension-reduction:
 
- .. toctree::
-    :maxdepth: 2
-    :caption: Dimensionality Reduction
+.. toctree::
+  :maxdepth: 2
+  :caption: Dimensionality Reduction
 
-    dimension_reduction
+  dimension_reduction
